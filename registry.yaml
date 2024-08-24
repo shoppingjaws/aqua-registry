@@ -13,7 +13,6 @@ packages:
       - linux
       - darwin
       - windows/amd64
-      - windows/386
   - type: github_release
     repo_owner: 1xyz
     repo_name: pryrite
