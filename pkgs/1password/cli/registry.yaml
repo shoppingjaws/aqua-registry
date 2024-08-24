@@ -10,4 +10,3 @@ packages:
       - linux
       - darwin
       - windows/amd64
-      - windows/386
