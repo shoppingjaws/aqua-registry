@@ -8,6 +8,12 @@ packages:
     description: Password manager developed by AgileBits Inc
     files:
       - name: op
+    version_constraint: semver(">=2.30.0")
+    supported_envs:
+      - linux
+      - darwin
+      - windows/amd64
+      - windows/386
   - type: github_release
     repo_owner: 1xyz
     repo_name: pryrite
