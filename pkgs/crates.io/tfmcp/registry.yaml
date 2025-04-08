@@ -1,0 +1,8 @@
+packages:
+  - name: crates.io/tfmcp
+    type: cargo
+    repo_owner: nwiizo
+    repo_name: tfmcp
+    description: Terraform Model Context Protocol Tool
+    link: https://github.com/nwiizo/tfmcp
+    crate: tfmcp
